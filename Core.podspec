@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.ios.deployment_target = '14.5'
   s.name = "Core"
-  s.summary = "Simple Core.framework for modularization chapter"
+  s.summary = "Core.framework for modularization chapter"
   s.requires_arc = true
    
   s.version = "1.0.0"
